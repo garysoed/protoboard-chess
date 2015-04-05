@@ -8,7 +8,6 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "src",
     "tutorial",
     "node_modules",
     "test"
@@ -28,11 +27,11 @@
     "game",
     "prototype"
   ],
-  "_release": "bc4674fc77",
+  "_release": "1ef6f20100",
   "_resolution": {
     "type": "branch",
     "branch": "0.2",
-    "commit": "bc4674fc7729d84be3e5bad61f3bec32c1f89f6a"
+    "commit": "1ef6f201009a4c6e5bd7199d1cc66e5dd216dd74"
   },
   "_source": "git://github.com/garysoed/protoboard.git",
   "_target": "0.2",
