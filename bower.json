@@ -1,0 +1,24 @@
+{
+  "name": "protoboard-chess",
+  "version": "1.0",
+  "homepage": "https://github.com/garysoed/protoboard-chess",
+  "authors": [
+    "Gary Soedarsono <garysoed@gmail.com>"
+  ],
+  "description": "Chess demo app for protoboard",
+  "keywords": [
+    "protoboard",
+    "chess"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "protoboard": "garysoed/protoboard#0.2"
+  }
+}
